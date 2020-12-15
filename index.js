@@ -19,11 +19,9 @@ const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
     A187: '👾AR15BOT👾',
-    instagram: 'https://instagram.com/_sadboy.ig',
-    nomer: 'wa.me/6285722553839',
-    aktif: '24 JAM',
-    youtube: 'https://youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg',
-    whatsapp: 'https://chat.whatsapp.com/DSSHmG2KjKJLoFp9B9mkVs',
+    instagram: 'https://instagram.com/gandi10117',
+    nomer: 'wa.me/6285709405032',
+    aktif: '24 JAM'
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
 }
